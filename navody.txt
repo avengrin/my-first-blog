@@ -60,3 +60,7 @@ from .models import Post
 admin.site.register(Post)
 
 
+Vytvorenie superuser
+python manage.py createsuperuser
+
+
